@@ -18,7 +18,7 @@ omar@omarvlcst:~$  sudo make install
      
 <h3> Please feel free to click in the following links to my social feeds: </h3>
 
-### *A continuación, muestro los enlaces a mis perfiles en otras redes sociales y les invito a darles clic*
+### *A continuación, muestro los enlaces a mis perfiles en otras redes sociales y les invito a darles clic:*
 
 [![Linkedin Badge](https://img.shields.io/badge/-omarvlcst-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarvlcst)](https://www.linkedin.com/in/omarvlcst) [![Gmail Badge](https://img.shields.io/badge/-omarvlcst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omarvlcst@gmail.com)](mailto:omarvlcst@gmail.com) [![Linktree](https://img.shields.io/badge/linktree-grey?style=for-the-badge&logo=linktree&link=https://linktr.ee/omarvlcst)](https://linktr.ee/omarvlcst)
 
@@ -37,7 +37,7 @@ omar@omarvlcst:~$  sudo make install
 * Frontend and Backend Web Development
 * E-commerce Sales Analysis
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=omarvlcst&layout=compact">
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
