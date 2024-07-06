@@ -26,7 +26,7 @@ omar@omarvlcst:~$  sudo make install
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarvlcst" alt="omarvlcst" /> </p>
 
-### "If the Tao is great, then the operating system is great. If the operating system is great, then the compiler is great. If the compiler is great, then the application is great. The user is pleased, and there is harmony in the world." 
+<h4> "If the Tao is great, then the operating system is great. If the operating system is great, then the compiler is great. If the compiler is great, then the application is great. The user is pleased, and there is harmony in the world." </h4> 
 
 ## :computer: Technologies I Love
 * Flutter
