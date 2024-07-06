@@ -45,37 +45,10 @@ omar@omarvlcst:~$  sudo make install
  ## Technologies I Use
 <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/7ff82e34-6ef6-476c-a57d-71b81bd366a5' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='40'/> <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/1236f733-c616-4017-adba-dfe6807ce439' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/88d3954a-7c2f-4b44-9619-13c9f4de827c' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='40'/>
  
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Vancouver_Canada()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
-## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+## Current Job
+ * Associate Teacher at Instituto Matemático y Actuarial Mexicano (IMAM).
+ * Advisor Teacher at Universidad Nacional Autónoma de México (UNAM).
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=omarvlcst&show_icons=true&hide=[%22issues%22])
+![Omi's github stats](https://github-readme-stats.vercel.app/api?username=omarvlcst&show_icons=true&hide=[%22issues%22])
  
  
