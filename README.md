@@ -2,14 +2,13 @@
 print("Hello, world")	
  ```
 
+## Hello, world  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="32px">
+
  ```bash
 ./configure
 make
 make install
  ```
-
-
-## Hello, world  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="32px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
