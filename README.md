@@ -5,9 +5,11 @@ print("Hello, world")
 ## Hello, world  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="32px">
 
  ```bash
-./configure
+tar -xzvf omarvlcst_homepage.tgz
+cd make-homepage1.0/
+./configure --prefix=/usr/local
 make
-make install
+sudo make install
  ```
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
