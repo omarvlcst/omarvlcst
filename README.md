@@ -14,6 +14,10 @@ omar@omarvlcst:~$  sudo make install
 
 ## Welcome to my Github profile homepage! BIENVENID@  <img src="https://flagpedia.net/data/flags/w580/br.webp"> </img> </span> (EN/ES) *Este perfil es parcialmente bilingüe*
 
+<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="40" 
+     height="50" /> 
+     
 <h3> Please feel free to catch up with the following links to my social feeds: </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-omarvlcst-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarvlcst)](https://www.linkedin.com/in/omarvlcst) [![Gmail Badge](https://img.shields.io/badge/-omarvlcst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omarvlcst@gmail.com)](mailto:omarvlcst@gmail.com) [![Linktree](https://img.shields.io/badge/linktree-grey?style=for-the-badge&logo=linktree&link=https://linktr.ee/omarvlcst)](https://linktr.ee/omarvlcst)
