@@ -28,11 +28,13 @@ omar@omarvlcst:~$  sudo make install
 
 <h4> "If the Tao is great, then the operating system is great. If the operating system is great, then the compiler is great. If the compiler is great, then the application is great. The user is pleased, and there is harmony in the world." </h4> 
 
-## :computer: Technologies I Love
-* Flutter
+## :computer: 🏢 👨‍💼 Skills and Interests
+* Scientific Computing
+* Data Analysis
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
+* E-commerce Sales Analysis
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
