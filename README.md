@@ -12,7 +12,7 @@ omar@omarvlcst:~$  make
 omar@omarvlcst:~$  sudo make install
  ```
 
-## Welcome to my Github profile homepage! BIENVENID@ &#127466 (EN/ES) *Este perfil es parcialmente bilingüe*
+## Welcome to my Github profile homepage! BIENVENID@ 	&#127466 (EN/ES) *Este perfil es parcialmente bilingüe*
 
 <h3> Please feel free to catch up with the following links to my social feeds: </h3>
 
