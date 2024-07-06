@@ -12,9 +12,7 @@ omar@omarvlcst:~$  make
 omar@omarvlcst:~$  sudo make install
  ```
 
-## Welcome to my Github profile homepage! BIENVENID@ <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
-     width="40" 
-     height="50" /> <span style="height:0.1px; width: 0.1px; display:inline-block;"> <img src="https://flagpedia.net/data/flags/w580/br.webp"> </img> </span> (EN/ES) *Este perfil es parcialmente bilingüe*
+## Welcome to my Github profile homepage! BIENVENID@  <img src="https://flagpedia.net/data/flags/w580/br.webp"> </img> </span> (EN/ES) *Este perfil es parcialmente bilingüe*
 
 <h3> Please feel free to catch up with the following links to my social feeds: </h3>
 
