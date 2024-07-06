@@ -30,6 +30,7 @@ omar@omarvlcst:~$  sudo make install
 
 ## :computer: 🏢 👨‍💼 Skills and Interests
 * Scientific Computing
+* Physics and Astrophysics
 * Data Analysis
 * Machine Learning
 * Data Science
