@@ -12,7 +12,7 @@ omar@omarvlcst:~$  make
 omar@omarvlcst:~$  sudo make install
  ```
 
-### Welcome to my Github profile homepage!
+## Welcome to my Github profile homepage!
 
 <h3> Please feel free to catch up with the following links to my social feeds: </h3>
 
