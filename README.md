@@ -13,6 +13,8 @@ omar@omarvlcst:~$  sudo make install
  ```
 
 ## Welcome to my Github profile homepage! BIENVENID@   <img src="https://flagpedia.net/data/flags/w580/gb.webp" width="50" height="30" />  <img src="https://flagpedia.net/data/flags/w580/es.webp" width="50" height="30" /> (EN/ES) 
+
+## 👨‍💻 PhD candidate at Instituto de Astronomía, Universidad Nacional Autónoma de México
      
 <h3> Please feel free to click in the following links to my social feeds: </h3>
 
@@ -39,15 +41,13 @@ omar@omarvlcst:~$  sudo make install
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=omarvlcst&layout=compact">
 
 ## 🖥️ Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='40'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/800px-Fortran_logo.svg.png' height='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/fcca9d72-9a47-4d54-9401-9e90ea745851' height='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/0e18efa1-d136-4a86-9c33-7fde904b5027' height='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/6b11182a-f5f5-4b14-ba22-12d23db52b9b' width='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/bf7ed089-24d5-44c1-ad7d-90f7eda52823' height='40'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='40'/>  <img src = '[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/800px-Fortran_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)' height='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/fcca9d72-9a47-4d54-9401-9e90ea745851' height='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='40'/> 
  
  ## 👨‍💻 Technologies I Use
 <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/7ff82e34-6ef6-476c-a57d-71b81bd366a5' height='40'/> <img src ='https://github.com/omarvlcst/omarvlcst/assets/113452317/99ba3744-202d-4f4a-b80e-60a042a23b9f' height='35'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/1236f733-c616-4017-adba-dfe6807ce439' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/88d3954a-7c2f-4b44-9619-13c9f4de827c' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='40'/>  
  
-## 🧑‍💼 Current Job (currently, it's only part time)
+## 🧑‍💼 Past Experience
  * Associate Teacher at Instituto Matemático y Actuarial Mexicano (IMAM).
- * Advisor Teacher at Universidad Nacional Autónoma de México (UNAM).
-
-![Omi's github stats](https://github-readme-stats.vercel.app/api?username=omarvlcst&show_icons=true&hide=[%22issues%22])
+ * Assistant Teacher at Universidad Nacional Autónoma de México (UNAM).
  
  
