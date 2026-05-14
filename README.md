@@ -38,7 +38,7 @@ omarvlcst@github:~$  sudo make install
 * Frontend and Backend Web Development
 * E-commerce Sales Analysis
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarvlcst&layout=compact&v=2">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omarvlcst&layout=compact">
 
 ## 🖥️ Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='40'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original' height='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/fcca9d72-9a47-4d54-9401-9e90ea745851' height='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='40'/> 
