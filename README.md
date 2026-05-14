@@ -14,7 +14,7 @@ omarvlcst@github:~$  sudo make install
 
 ## Welcome to my Github profile homepage! BIENVENID@   <img src="https://flagpedia.net/data/flags/w580/gb.webp" width="50" height="30" />  <img src="https://flagpedia.net/data/flags/w580/es.webp" width="50" height="30" /> (EN/ES) 
 
-# 👨‍💻 I am Omar. Currently, I am a PhD candidate at Instituto de Astronomía, Universidad Nacional Autónoma de México ##
+# 👨‍💻 I am Omar. Currently, I am a PhD candidate at Instituto de Astronomía, Universidad Nacional Autónoma de México <img src="https://www.vecteezy.com/vector-art/16592450-national-flag-of-mexico-flat-color-icon" width="50" height="30" />  ##
      
 <h3> Please feel free to click in the following links to my social feeds: </h3>
 
