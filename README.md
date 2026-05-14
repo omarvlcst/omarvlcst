@@ -5,11 +5,11 @@ print("Hello, world")
 ## Hello, world  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="32px">
 
  ```bash
-omar@omarvlcst:~$  tar -xzvf omarvlcst_homepage.tgz
-omar@omarvlcst:~$  cd make-homepage1.0/
-omar@omarvlcst:~$  ./configure --prefix=/usr/local
-omar@omarvlcst:~$  make
-omar@omarvlcst:~$  sudo make install
+omarvlcst@github:~$  tar -xzvf omarvlcst_homepage.tgz
+omarvlcst@github:~$  cd make-homepage/
+omarvlcst@github:~$  ./configure --prefix=/usr/local
+omarvlcst@github:~$  make
+omarvlcst@github:~$  sudo make install
  ```
 
 ## Welcome to my Github profile homepage! BIENVENID@   <img src="https://flagpedia.net/data/flags/w580/gb.webp" width="50" height="30" />  <img src="https://flagpedia.net/data/flags/w580/es.webp" width="50" height="30" /> (EN/ES) 
@@ -38,7 +38,7 @@ omar@omarvlcst:~$  sudo make install
 * Frontend and Backend Web Development
 * E-commerce Sales Analysis
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=omarvlcst&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarvlcst&layout=compact&v=2">
 
 ## 🖥️ Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='40'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original' height='40'/>  <img src = 'https://github.com/omarvlcst/omarvlcst/assets/113452317/fcca9d72-9a47-4d54-9401-9e90ea745851' height='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='40'/> 
